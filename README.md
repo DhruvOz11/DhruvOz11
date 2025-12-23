@@ -2,7 +2,6 @@
 - 👀 I’m interested in machine learning, javascript projects, computer vision, robotics & full stack developement.
 - 🌱 I’m currently learning machine learning
 - 💞️ I’m looking to collaborate on javascript projects
-- 📫 How to reach me fybsc51@gmail.com
 - 😄 Pronouns: Mr.Dhruv
 - ⚡ Fun fact: I am always onto latest tech, and try challanging projects using my knowledge
 
