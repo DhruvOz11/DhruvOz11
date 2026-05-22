@@ -2,7 +2,7 @@
 
 # Dhruv Ozarkar
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=26&duration=2500&pause=700&color=22D3EE&center=true&vCenter=true&width=1000&lines=Programming+is+my+OCD;Frontend+Developer+from+India;Building+creative+web+experiences+with+HTML+CSS+JS+and+TypeScript" alt="Typing animation" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=26&duration=2500&pause=700&color=22D3EE&center=true&vCenter=true&width=1000&lines=Programming+is+my+OCD;FullStack+Developer+from+India;Building+creative+web+experiences+with+HTML+CSS+JS+and+TypeScript" alt="Typing animation" />
 
 <br />
 
